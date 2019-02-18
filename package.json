@@ -1,0 +1,32 @@
+{
+  "name": "multi-scan",
+  "version": "0.0.1",
+  "description": "a multi-threaded approach to examining disk contents",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "swimmadude66",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "11.9.4",
+    "tslib": "1.9.3",
+    "typescript": "3.3.3"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swimmadude66/multi-scan.git"
+  },
+  "keywords": [
+    "dirstat",
+    "node",
+    "multithread",
+    "file",
+    "utils"
+  ],
+  "bugs": {
+    "url": "https://github.com/swimmadude66/multi-scan/issues"
+  },
+  "homepage": "https://github.com/swimmadude66/multi-scan#readme"
+}
